@@ -7,7 +7,7 @@ package asociacionautomovilejemplo;
 
 /**
  *
- * @author VERITON
+ * @author amolino
  */
 public class Principal {
 
